@@ -19,6 +19,8 @@ Hi there 👋 I'm Paul. After graduating with a degree in Chemical Engineering I
 
 So in January 2022 I took the jump 🪂 and joined the _nology.io consultancy programme as a junior full stack software developer and have loved every minute of it. 
 
+Check out my portfolio here: https://singapaul.github.io/portfolio/
+
 <br>
 
 Connect with me
