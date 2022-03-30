@@ -44,11 +44,11 @@ Skills
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [Bootcamp week 7: &lpar;Professionalism, APIs &amp; Testing&rpar; Redux.](https://medium.com/@paulmichaelhardman/bootcamp-week-7-professionalism-apis-testing-redux-e16cac0d8832?source=rss-abcfe04287f6------2)
+- [Bootcamp Week 6: Halftime](https://medium.com/@paulmichaelhardman/bootcamp-week-6-halftime-95886fb10402?source=rss-abcfe04287f6------2)
+- [Hack your creativity and productivity in 5 seconds](https://medium.com/@paulmichaelhardman/hack-your-creativity-and-productivity-in-5-seconds-3826171ee0c8?source=rss-abcfe04287f6------2)
+- [Bootcamp Week 5: Reacting to react ❤](https://medium.com/@paulmichaelhardman/bootcamp-week-5-reacting-to-react-1f6b2956fc08?source=rss-abcfe04287f6------2)
+- [Bootcamp week 4: Hello my tetraminos!](https://medium.com/@paulmichaelhardman/bootcamp-week-4-hello-my-tetraminos-3bdc9dee353f?source=rss-abcfe04287f6------2)
 <!-- BLOG-POST-LIST:END -->
 
 
