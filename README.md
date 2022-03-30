@@ -31,7 +31,7 @@ Check out my portfolio here: https://singapaul.github.io/portfolio/
 <br>
 <br>
 
-##Skills 
+#Skills 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -42,7 +42,7 @@ Check out my portfolio here: https://singapaul.github.io/portfolio/
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
-## Blog posts
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Bootcamp week 7: &lpar;Professionalism, APIs &amp; Testing&rpar; Redux.](https://medium.com/@paulmichaelhardman/bootcamp-week-7-professionalism-apis-testing-redux-e16cac0d8832?source=rss-abcfe04287f6------2)
 - [Bootcamp Week 6: Halftime](https://medium.com/@paulmichaelhardman/bootcamp-week-6-halftime-95886fb10402?source=rss-abcfe04287f6------2)
