@@ -31,7 +31,7 @@ Connect with me
 
 Skills 
 
-[<img align="left" alt="linked-in" src="https://simpleicons.org/icons/html5.svg"/>]
+![github](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 
 
