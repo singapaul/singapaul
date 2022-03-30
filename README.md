@@ -23,7 +23,7 @@ Check out my portfolio here: https://singapaul.github.io/portfolio/
 
 <br>
 
-##Connect with me
+## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paul-hardman-1199b6108/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@paulmichaelhardman/)
@@ -31,7 +31,7 @@ Check out my portfolio here: https://singapaul.github.io/portfolio/
 <br>
 <br>
 
-#Skills 
+# Skills 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
