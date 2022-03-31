@@ -29,11 +29,11 @@ Check out my portfolio here: https://singapaul.github.io/portfolio/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bootcamp week 8: Java, imposter syndrome and why I’m in tech.](https://medium.com/@paulmichaelhardman/bootcamp-week-8-java-imposter-syndrome-and-why-im-in-tech-931e8aacd18?source=rss-abcfe04287f6------2)
 - [Bootcamp week 7: &lpar;Professionalism, APIs &amp; Testing&rpar; Redux.](https://medium.com/@paulmichaelhardman/bootcamp-week-7-professionalism-apis-testing-redux-e16cac0d8832?source=rss-abcfe04287f6------2)
 - [Bootcamp Week 6: Halftime](https://medium.com/@paulmichaelhardman/bootcamp-week-6-halftime-95886fb10402?source=rss-abcfe04287f6------2)
 - [Hack your creativity and productivity in 5 seconds](https://medium.com/@paulmichaelhardman/hack-your-creativity-and-productivity-in-5-seconds-3826171ee0c8?source=rss-abcfe04287f6------2)
 - [Bootcamp Week 5: Reacting to react ❤](https://medium.com/@paulmichaelhardman/bootcamp-week-5-reacting-to-react-1f6b2956fc08?source=rss-abcfe04287f6------2)
-- [Bootcamp week 4: Hello my tetraminos!](https://medium.com/@paulmichaelhardman/bootcamp-week-4-hello-my-tetraminos-3bdc9dee353f?source=rss-abcfe04287f6------2)
 <!-- BLOG-POST-LIST:END -->
 
 
