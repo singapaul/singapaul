@@ -35,11 +35,11 @@ Check out my portfolio here: https://singapaul.github.io/portfolio/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bootcamp week 11: Playing product owner and even more Java](https://medium.com/@paulmichaelhardman/bootcamp-week-11-playing-product-owner-and-even-more-java-dc7b84e2380?source=rss-abcfe04287f6------2)
 - [Bootcamp week 10: Springing into a Pokemon redux, a morse code SQL, and how I got into tech.](https://medium.com/@paulmichaelhardman/bootcamp-week-10-springing-into-a-pokemon-redux-a-morse-code-sql-and-how-i-got-into-tech-184b0bc8cc52?source=rss-abcfe04287f6------2)
 - [Bootcamp week 9: What do hammers, parking lots and libraries have in common?](https://medium.com/@paulmichaelhardman/bootcamp-week-9-what-do-hammers-parking-lots-and-libraries-have-in-common-c995d56e4ff3?source=rss-abcfe04287f6------2)
 - [Bootcamp week 8: Java, imposter syndrome and why I’m in tech.](https://medium.com/@paulmichaelhardman/bootcamp-week-8-java-imposter-syndrome-and-why-im-in-tech-931e8aacd18?source=rss-abcfe04287f6------2)
 - [Bootcamp week 7: &lpar;Professionalism, APIs &amp; Testing&rpar; Redux.](https://medium.com/@paulmichaelhardman/bootcamp-week-7-professionalism-apis-testing-redux-e16cac0d8832?source=rss-abcfe04287f6------2)
-- [Bootcamp Week 6: Halftime](https://medium.com/@paulmichaelhardman/bootcamp-week-6-halftime-95886fb10402?source=rss-abcfe04287f6------2)
 <!-- BLOG-POST-LIST:END -->
 
 
