@@ -35,11 +35,11 @@ Check out my portfolio here: https://singapaul.github.io/portfolio/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Molly Mae&lpar;d&rpar; me — How I leverage artificial intelligence to make notes](https://medium.com/@paulmichaelhardman/molly-mae-d-me-how-i-leverage-artificial-intelligence-to-make-notes-657ce44c3134?source=rss-abcfe04287f6------2)
 - [Code this not that #1](https://medium.com/@paulmichaelhardman/code-this-not-that-1-a09ddb39da32?source=rss-abcfe04287f6------2)
 - [Everything I read in August](https://medium.com/@paulmichaelhardman/everything-i-read-in-august-f2171f4ee864?source=rss-abcfe04287f6------2)
 - [Bootcamp week 12: Certified dev](https://medium.com/@paulmichaelhardman/bootcamp-week-12-certified-dev-fa7b4518ada6?source=rss-abcfe04287f6------2)
 - [Bootcamp week 11: Playing product owner and even more Java](https://medium.com/@paulmichaelhardman/bootcamp-week-11-playing-product-owner-and-even-more-java-dc7b84e2380?source=rss-abcfe04287f6------2)
-- [Bootcamp week 10: Springing into a Pokemon redux, a morse code SQL, and how I got into tech.](https://medium.com/@paulmichaelhardman/bootcamp-week-10-springing-into-a-pokemon-redux-a-morse-code-sql-and-how-i-got-into-tech-184b0bc8cc52?source=rss-abcfe04287f6------2)
 <!-- BLOG-POST-LIST:END -->
 
 
