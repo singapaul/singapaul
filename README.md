@@ -44,11 +44,11 @@ Check out my portfolio here: https://singapaul.github.io/portfolio/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Three things I’ve learned building an MVP](https://medium.com/@paulmichaelhardman/three-things-ive-learned-building-an-mvp-7c462de206a9?source=rss-abcfe04287f6------2)
 - [40 life lessons I learned from the 40 books I read in 2022](https://medium.com/@paulmichaelhardman/40-life-lessons-i-learned-from-the-40-books-i-read-in-2022-9cee75ce2af7?source=rss-abcfe04287f6------2)
 - [Everything I read in October](https://medium.com/@paulmichaelhardman/everything-i-read-in-october-c4e0965536bf?source=rss-abcfe04287f6------2)
 - [Everything I read in September](https://medium.com/@paulmichaelhardman/everything-i-read-in-september-2f90be0c829b?source=rss-abcfe04287f6------2)
 - [Molly Mae&lpar;d&rpar; me — How I leverage artificial intelligence to make notes](https://medium.com/@paulmichaelhardman/molly-mae-d-me-how-i-leverage-artificial-intelligence-to-make-notes-657ce44c3134?source=rss-abcfe04287f6------2)
-- [Code this not that #1](https://medium.com/@paulmichaelhardman/code-this-not-that-1-a09ddb39da32?source=rss-abcfe04287f6------2)
 <!-- BLOG-POST-LIST:END -->
 
 
