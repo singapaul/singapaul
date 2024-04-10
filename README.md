@@ -1,6 +1,6 @@
 ## ![](./paul.png)
 
-Hi there 👋 I'm Paul. After graduating with a degree in Chemical Engineering I soon started a career in manufacuting and supply chain management. Whilst I loved the rush of operations I missed the problem solving and technical challenge of Engineering, I also saw the fantastic possibilities for how technology was quickly changing our world and uncovered a passion for design 🎨.
+Hi there 👋 I'm Paul. After graduating with a degree in Chemical Engineering I soon started a career in manufacuting and supply chain management. Whilst I loved the rush of operations I missed the problem solving and technical challenge of Engineering, I also saw the fantastic possibilities for how technology was quickly changing our world and uncovered a passion for design 🎨. These days I'm passionate about web development, accessibility standards and the capabilities of LLMs.
 
 So in January 2022 I took the jump 🪂 and started my journey from Chemical Engineer to Software Developer
 
